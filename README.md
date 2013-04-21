@@ -1,8 +1,8 @@
 Mod-Installer-From-URL
 ======================
-This does exactly as it says. Download The MIFU.vbs and the modlist.txt or create your own!
+This does exactly as it says. Download The MIFU.vbs and the Modlist.txt or create your own!
 
-The modlist.txt MUST be as follows:
+The Modlist.txt MUST be as follows:
 
   -each line represents a mod
   
