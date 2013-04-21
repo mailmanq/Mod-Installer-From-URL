@@ -6,7 +6,7 @@ The modlist.txt MUST be as follows:
 
   -each line represents a mod
   
-  -there are 2 parts to each line separated by a: ,
+  -there are 2 parts to each line separated by a comma
   
   -the first part is the EXACT link to the mod download
   
