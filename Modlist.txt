@@ -1,2 +1,4 @@
 http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-latest.zip,\instMods\minecraftforge-universal-latest.zip
 http://www.chickenbones.craftsaddle.org/Files/goto.php?file=CodeChickenCore&version=1.5.1,\minecraft\coremodsCodeChickenCore.jar
+http://www.chickenbones.craftsaddle.org/Files/goto.php?file=NotEnoughItems&version=1.5.1,\minecraft\coremods\NotEnoughItems.jar
+http://www.eloraam.com/files/43143756a7636620da44/RedPowerCore-2.0pr6.zip,\minecraft\mods\RedPowerCore-2.0pr6.zip
