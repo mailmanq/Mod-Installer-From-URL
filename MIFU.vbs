@@ -34,3 +34,5 @@ download()
 strFileURL = "http://www.eloraam.com/files/43143756a7636620da44/RedPowerCore-2.0pr6.zip"
 strHDLocation = mcloc & "\minecraft\mods\" & "RedPowerCore-2.0pr6.zip"
 download()
+
+MsgBox("Finished Downloading Mods")
