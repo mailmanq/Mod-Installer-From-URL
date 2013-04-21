@@ -1,3 +1,6 @@
+'strFileURL = "http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-latest.zip"
+'strHDLocation = "minecraftforge-universal-latest.zip"
+
 Function download()
 
     Set objXMLHTTP = CreateObject("MSXML2.XMLHTTP")
@@ -32,9 +35,12 @@ Set objTextFile = objFSO.OpenTextFile _
 Do Until objTextFile.AtEndOfStream
     strNextLine = objTextFile.Readline
     arrModList = Split(strNextLine , ",")
-    Wscript.Echo "URL: " & arrModList(0)
+    'Wscript.Echo "URL: " & arrModList(0)
+    strFileURL = arrModList(0)
     For i = 1 to Ubound(arrModList)
-        Wscript.Echo "FILE: " & arrModList(i)
+        'Wscript.Echo "FILE: " & arrModList(i)
+		strHDLocation = arrModList(i)
+		download()
     Next
 Loop
 
@@ -61,4 +67,4 @@ Loop
 'strHDLocation = mcloc & "\minecraft\coremods\" & "NotEnoughItems.jar"
 'download()
 
-'MsgBox("Finished Downloading Mods")
+MsgBox("Finished Downloading Mods")
