@@ -25,8 +25,8 @@ Function download()
     Set objXMLHTTP = Nothing
 End Function
 
-mcloc=InputBox("Please enter you .minecraft location ex.) C:\Path\To\Your\multimcinstace\")
+mcloc=InputBox("Please enter you .minecraft location ex.) C:\Path\To\Your\multimcinstace")
 
 strFileURL = "http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-latest.zip"
-strHDLocation = mcloc & "MCForge.zip"
+strHDLocation = mcloc & "\instMods\" & "MCForge.zip"
 download()
