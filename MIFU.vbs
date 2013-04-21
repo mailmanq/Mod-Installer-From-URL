@@ -28,5 +28,9 @@ End Function
 mcloc=InputBox("Please enter you .minecraft location ex.) C:\Path\To\Your\multimcinstace")
 
 strFileURL = "http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-latest.zip"
-strHDLocation = mcloc & "\instMods\" & "MCForge.zip"
+strHDLocation = mcloc & "\instMods\" & "minecraftforge-universal-latest.zip"
+download()
+
+strFileURL = "http://www.eloraam.com/files/43143756a7636620da44/RedPowerCore-2.0pr6.zip"
+strHDLocation = mcloc & "\minecraft\mods\" & "RedPowerCore-2.0pr6.zip"
 download()
