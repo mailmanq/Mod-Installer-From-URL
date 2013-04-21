@@ -1,4 +1,14 @@
-http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-latest.zip,\instMods\minecraftforge-universal-latest.zip
+http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-1.5.1-7.7.1.666.zip,\instMods\MinecraftForge.zip
 http://www.chickenbones.craftsaddle.org/Files/goto.php?file=CodeChickenCore&version=1.5.1,\minecraft\coremodsCodeChickenCore.jar
 http://www.chickenbones.craftsaddle.org/Files/goto.php?file=NotEnoughItems&version=1.5.1,\minecraft\coremods\NotEnoughItems.jar
-http://www.eloraam.com/files/43143756a7636620da44/RedPowerCore-2.0pr6.zip,\minecraft\mods\RedPowerCore-2.0pr6.zip
+http://www.bloccrew.com/servers/minecraft/modserver/mods/TConstruct_1.5.1_1.3dev.12.jar,\minecraft\mods\TConstructjar
+http://www.mediafire.com/download.php?3wvs96pl34rchuh,\minecraft\mods\ComputerCraft.zip
+http://205.196.121.187/61dg6zdd52fg/pe33mectu173ued/buildcraft-A-3.5.0.jar,\minecraft\mods\BC.jar
+http://www.chickenbones.craftsaddle.org/Files/goto.php?file=EnderStorage&version=1.5.1,\minecraft\mods\EnderStorage.jar
+http://www.chickenbones.craftsaddle.org/Files/goto.php?file=ChickenChunks&version=1.5.1,\minecraft\mods\ChickenChunks.jar
+http://files.minecraftforge.net/CompactSolars/compactsolars-universal-1.5.1-4.1.4.35.zip,\minecraft\mods\CompactSolars.zip
+http://205.196.120.147/prxwf15bp7bg/lydep33zy6y9079/ExtrabiomesXL-universal-1.5.1-3.13.0.jar,\minecraft\mod\ExtraBiomesXL.jar
+http://199.91.152.31/bgm62u21mg8g/708dkp00bq9d833/Factorization-0.7.27.jar,\minecraft\mods\Factorization.jar
+http://forum.industrial-craft.net/index.php?page=Attachment&attachmentID=2855&h=c73dff37b37bef47b75a533582f10a40a7526f1d,\minecraft\mods\MFFS.zip
+http://binarymage.com/mystcraft/publish/mystcraft-uni-1.5.1-0.10.3.00.zip,\minecraft\mods\Mystcraft.zip
+http://www.bloccrew.com/servers/minecraft/modserver/mods/StevesCarts2.0.0.a99.zip,\minecraft\mods\SC2.zip
