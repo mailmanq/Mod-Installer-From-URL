@@ -1,2 +1,2 @@
-"http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-latest.zip","minecraftforge-universal-latest.zip"
-"http://www.chickenbones.craftsaddle.org/Files/goto.php?file=CodeChickenCore&version=1.5.1","CodeChickenCore.jar"
+http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-latest.zip,minecraftforge-universal-latest.zip
+http://www.chickenbones.craftsaddle.org/Files/goto.php?file=CodeChickenCore&version=1.5.1,CodeChickenCore.jar
