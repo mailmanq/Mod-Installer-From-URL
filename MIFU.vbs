@@ -1,6 +1,8 @@
 'strFileURL = "http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-latest.zip"
 'strHDLocation = "minecraftforge-universal-latest.zip"
 
+mcloc=InputBox("Please enter you .minecraft location ex.) C:\Path\To\Your\multimcinstace")
+
 Function download()
 
     Set objXMLHTTP = CreateObject("MSXML2.XMLHTTP")
@@ -36,10 +38,10 @@ Do Until objTextFile.AtEndOfStream
     strNextLine = objTextFile.Readline
     arrModList = Split(strNextLine , ",")
     'Wscript.Echo "URL: " & arrModList(0)
-    strFileURL = arrModList(0)
+	strFileURL = arrModList(0)
     For i = 1 to Ubound(arrModList)
         'Wscript.Echo "FILE: " & arrModList(i)
-		strHDLocation = arrModList(i)
+		strHDLocation = mcloc & arrModList(i)
 		download()
     Next
 Loop
